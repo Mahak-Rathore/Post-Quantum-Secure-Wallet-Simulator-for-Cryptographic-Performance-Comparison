@@ -1,0 +1,68 @@
+======================================================
+POST-QUANTUM WALLET SIMULATOR - DEMO SCRIPT & WALKTHROUGH
+======================================================
+
+Hello Professor, today I will be demonstrating the Post-Quantum Wallet Simulator. This application is designed to simulate and contrast classical cryptographic models (like RSA/ECC) against lattice-based Post-Quantum algorithms in a responsive, real-time environment.
+
+Here is the step-by-step walkthrough of the dashboard:
+
+------------------------------------------------------
+STEP 1: THE DASHBOARD OVERVIEW & DESIGN
+------------------------------------------------------
+- Point to the overall interface.
+- "We built a modern, responsive dashboard to clearly separate the three pillars of a cryptographic system: Key Generation, Transaction Execution, and Performance Benchmarking."
+
+------------------------------------------------------
+STEP 2: RUNNING THE GLOBAL EXPERIMENT
+------------------------------------------------------
+- Locate the "Run New Experiment" button in the header.
+- "Before we run any manual transactions, I’ll hit the 'Run New Experiment' button. This sends a request to the backend to comprehensively benchmark both algorithms side-by-side thousands of times to warm up the server."
+- Observe the updated data in the dark pane at the bottom (Cryptographic Overhead Analysis).
+
+------------------------------------------------------
+STEP 3: GENERATING IDENTITIES (WALLETS)
+------------------------------------------------------
+- Navigate to the "Generate Wallet" glass panel on the top left.
+- "To actually use the simulator, we must create node identities."
+- Action: Select "Classical (RSA/ECC)" from the dropdown and click [Initialize Keypair]. You will see an alert with the new Wallet ID. 
+- "The backend has just generated a classical Public/Private key pair."
+- Action: Now, change the dropdown to "Post-Quantum (Lattice-based)" and click [Initialize Keypair] again.
+- "We now have two distinct wallets active in the network."
+
+------------------------------------------------------
+STEP 4: QUANTUM ADVERSARY (SHOR'S ALGORITHM SIMULATOR)
+------------------------------------------------------
+- Navigate to the "Quantum Adversary" panel on the top right.
+- "This module simulates a threat actor deploying Shor's Algorithm via a theoretical quantum computer against our wallets."
+- Action: From the dropdown, select the Classical Wallet generated in the previous step. Click [Initiate Quantum Attack].
+- "Notice how the classical wallet is immediately flagged as COMPROMISED. The math is fully broken within a simulated few seconds using around 4,000 logical qubits."
+- Action: Now, select the Post-Quantum Wallet from the dropdown and hit [Initiate Quantum Attack].
+- "Because this key utilizes lattice-based mathematical structures, Shor's algorithm has no effect. The attack fails, and the wallet is flagged as exponentially SECURE."
+
+------------------------------------------------------
+STEP 5: EXECUTING A TRANSACTION
+------------------------------------------------------
+- Navigate to the "Execute Transfer" panel on the bottom left.
+- "Now, we will simulate transferring a digital asset between our two generated wallets."
+- Action: In the 'Sender Signature (From)' dropdown, select the first wallet. In the 'Receiver Address (To)' dropdown, select the second wallet.
+- Enter an amount (e.g., 50.00).
+- Click [Transmit Block].
+- "What is happening here is that the backend is taking the sender's Private Key, generating a cryptographic signature for this specific payload, and then using the receiver's Public Key to verify its authenticity before confirming the transaction."
+
+------------------------------------------------------
+STEP 5: OBSERVING THE LEDGER (TRANSACTION HISTORY)
+------------------------------------------------------
+- Look at the "Ledger Stream" on the right.
+- "Immediately, we see our transaction appear in the ledger stream. A green glowing 'VERIFIED' badge indicates that the cryptographic signature was authenticated successfully by the backend server." 
+- *Note: If a user attempts to spoof a signature or use bad keys, it would mark the transaction as 'FAILED' in red.*
+
+------------------------------------------------------
+STEP 6: PERFORMANCE & DATA ANALYSIS
+------------------------------------------------------
+- Scroll down to the "Cryptographic Overhead Analysis" table and the "Latency Comparison" chart.
+- "Finally, we can look at the raw data extracted from our operations. As you can see:"
+   1. KEY SIZES: Post-Quantum keys are significantly larger than classical keys.
+   2. SIGNATURE SIZES: Similarly, the payload bloat from PQ signatures is much higher.
+   3. LATENCY: We visualize the time complexity (in milliseconds). While Post-Quantum models offer incredible security against quantum attacks, this chart demonstrates the computational trade-offs required in generation and verification times. 
+
+"This dashboard proves that while Post-Quantum cryptography is the necessary future for quantum-resistant security, integrating it will require accounting for larger packet sizes and altered processing latencies."

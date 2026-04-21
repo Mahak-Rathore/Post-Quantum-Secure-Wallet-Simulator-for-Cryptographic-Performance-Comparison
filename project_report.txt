@@ -1,0 +1,33 @@
+# Project Report: Post-Quantum Wallet Simulator
+
+## 1. Overview
+The Post-Quantum Wallet Simulator is a full-stack web application designed to demonstrate the transition from classical cryptography to post-quantum resistant algorithms in the context of digital wallets. It provides a visual and interactive way to compare security, performance, and vulnerabilities.
+
+## 2. Technical Stack
+- **Frontend**: React.js, TailwindCSS (for modern UI/UX).
+- **Backend**: Node.js, Express.js.
+- **Data**: Local JSON-based storage for simulation state.
+
+## 3. Key Functionalities
+- **Wallet Management**: Users can create "Classical" and "Post-Quantum" wallets.
+- **Transaction Simulation**: Allows transferring simulated assets between different wallet types.
+- **Benchmarking**: Compares the computational overhead and latency of classical vs. post-quantum algorithms.
+- **Quantum Attack Simulation**: Demonstrates how quantum computing (e.g., Shor's algorithm) might impact classical keys compared to PQ-resistant ones.
+- **Interactive Dashboards**: Real-time performance charts and transaction histories.
+
+## 4. Important Files & Structure
+### Backend (`/backend`)
+- `server.js`: The main entry point for the REST API.
+- `services/cryptoService.js`: Contains the logic for generating simulated classical and post-quantum keys.
+- `services/benchmarkService.js`: Handles logic for performance testing and comparisons.
+- `routes/`: Defines API endpoints for wallets, transactions, and experiments.
+
+### Frontend (`/frontend`)
+- `src/App.js`: The central hub coordinate navigation and state.
+- `src/components/WalletCreator.js`: Component for generating new keys.
+- `src/components/QuantumAttack.js`: Visual simulation of quantum threats.
+- `src/components/PerformanceChart.js`: Visualizes the "Classical vs. PQ" performance metrics.
+- `src/index.css`: Implementation of the modern, dark-themed design system.
+
+## 5. Summary
+The project effectively bridges the gap between complex cryptographic concepts and user-friendly visualization. It is structured for modularity, allowing new PQ algorithms or attack scenarios to be added easily.

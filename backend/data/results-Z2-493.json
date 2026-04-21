@@ -1,0 +1,1226 @@
+[
+  {
+    "timestamp": 1773591184894,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1773591552751,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1773592941830,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1773650412858,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.19,
+      "avgSigningTime": 0.05,
+      "avgVerificationTime": 0.08
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.07,
+      "avgSigningTime": 0.05,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1773650767541,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.1,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.07,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1774719471755,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.04,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1774719477901,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1775586363170,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1775586371794,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586453867,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586455333,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586455933,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586456660,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.04
+    }
+  },
+  {
+    "timestamp": 1775586457468,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.04,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1775586466673,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586471252,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586473040,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.03
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586493695,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586505378,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1775586986463,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775586993290,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1775587177750,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1775588263686,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776356442124,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776356446132,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776356452608,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776356456588,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.04,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776356460459,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.06,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776356465131,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776356468546,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.04,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776356472445,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.07,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776356476323,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.03
+    }
+  },
+  {
+    "timestamp": 1776748569187,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748572809,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748575407,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748583873,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.06,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748584977,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.03
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748586012,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.06,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748587134,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748588203,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748589798,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1776748592302,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748593605,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.04,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748595031,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748596101,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1776748597003,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748598032,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748599264,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748600305,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.01
+    }
+  },
+  {
+    "timestamp": 1776748601300,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.02,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.06,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748602507,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748603485,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748604703,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.05,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.04,
+      "avgVerificationTime": 0
+    }
+  },
+  {
+    "timestamp": 1776748605551,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.02,
+      "avgVerificationTime": 0
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.01,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1776748606517,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.04,
+      "avgSigningTime": 0,
+      "avgVerificationTime": 0.02
+    }
+  },
+  {
+    "timestamp": 1776748607572,
+    "experiment": "Post Quantum Wallet Performance Comparison",
+    "classical": {
+      "algorithm": "classical",
+      "iterations": 100,
+      "keySize": 33,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.03,
+      "avgSigningTime": 0.05,
+      "avgVerificationTime": 0.02
+    },
+    "postQuantum": {
+      "algorithm": "post-quantum",
+      "iterations": 100,
+      "keySize": 42,
+      "signatureSize": 64,
+      "avgKeyGenerationTime": 0.01,
+      "avgSigningTime": 0.03,
+      "avgVerificationTime": 0.01
+    }
+  }
+]
